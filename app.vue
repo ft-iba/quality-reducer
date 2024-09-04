@@ -173,7 +173,7 @@ const compressImage = async (): Promise<void> => {
 }
 
 .preview {
-  width: math.div(100vw, 3);
+  width: 33vw;
 }
 
 .preview__src {
